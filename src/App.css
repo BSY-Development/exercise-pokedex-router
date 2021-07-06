@@ -7,3 +7,18 @@
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
+
+.navigation {
+  margin: 0 7px;
+}
+
+.about-style {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  margin: auto;
+}
+
+.about-style * {
+  margin: 0 15px;
+}
